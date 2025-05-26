@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0;
+  color: white;
+  
+}
+body{
+  background-color: gray;
+}
+#navbar{
+  height: 50px;
+  width: 955px;
+  background-color: #0f1111;
+  boder-height: 939px;
+  boder-width: 50px;
+  border-color: white;
+  border-style: solid;
+}
+button{
+  background-color: #f08804;
+}
+  
+#logo{
+  color: #f08804;
+}
+a{
+  margin-right: 100px;
+  text-decoration: none;
+}
